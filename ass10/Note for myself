@@ -1,0 +1,3 @@
+Make the .so file from Addlib.c DLL by using : gcc -shared -o Addlib.so -fPIC Addlib.c
+Compile ass10_1.c by : gcc ass10_1.c -ldl
+
